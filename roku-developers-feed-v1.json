@@ -54,25 +54,25 @@
 		{
 			"longDescription": "Edgars Krūmiņš - recipient of the highest award of the city of Jelgava Badge of Honor, 2021",
 			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-2.jpg",
-			"releaseDate": "2020-01-17",
+			"releaseDate": "2021-11-17",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"getting-started"
+				"Badge of Honor"
 			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
+			"id": "edgars_krumins_bof",
+			"shortDescription": "3x3 basketball player, champion of the Tokyo Olympic Games, awarded for popularizing sports, a healthy and active lifestyle and the name of Jelgava.",
 			"title": "Enabling Developer Mode",
 			"content": {
-				"duration": 120,
+				"duration": 194,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "http://evo.id.lv/rokuapp/video/002.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z",
+				"dateAdded": "2022-08-25T02:39:11Z",
 				"captions": [{
 						"language": "en",
 						"captionType": "CLOSED_CAPTION",
