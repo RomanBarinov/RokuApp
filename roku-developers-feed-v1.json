@@ -669,27 +669,27 @@
 		}
 	],
 	"Festivities": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
+			"longDescription": "International Sand Sculpture Festival in Jelgava, 2019",
 			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-4.jpg",
-			"releaseDate": "2020-01-20",
+			"releaseDate": "2019-06-11",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"demo"
+				"Sand Sculpture Festival"
 			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"id": "sand_sculpture_festival",
+			"shortDescription": "International Sand Sculpture Festival in Jelgava, 2019",
+			"title": "Sand Sculpture Festival 2019",
 			"content": {
-				"duration": 713,
+				"duration": 84,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "http://evo.id.lv/rokuapp/video/004.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"dateAdded": "2022-08-25T02:39:11Z"
 			}
 		},
 		{
