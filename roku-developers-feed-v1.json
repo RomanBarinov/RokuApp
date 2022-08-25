@@ -29,7 +29,7 @@
 		},
 		{
 			"longDescription": "Jurijs Stepanovs - recipient of the highest award of the city of Jelgava Badge of Honor, 2022",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-2.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-3.jpg",
 			"releaseDate": "2022-06-26",
 			"genres": [
 				"educational"
@@ -44,7 +44,7 @@
 				"duration": 122,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "http://evo.id.lv/rokuapp/video/002.mp4",
+					"url": "http://evo.id.lv/rokuapp/video/003.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -52,8 +52,8 @@
 			}
 		},
 		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-3.jpg",
+			"longDescription": "Edgars Krūmiņš - recipient of the highest award of the city of Jelgava Badge of Honor, 2021",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-2.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -68,7 +68,7 @@
 				"duration": 120,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "http://evo.id.lv/rokuapp/video/003.mp4",
+					"url": "http://evo.id.lv/rokuapp/video/002.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
