@@ -29,7 +29,7 @@
 		},
 		{
 			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb2.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -53,7 +53,7 @@
 		},
 		{
 			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb3.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -669,7 +669,7 @@
 	],
 	"movies": [{
 			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb4.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -693,7 +693,7 @@
 		},
 		{
 			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb5.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -717,7 +717,7 @@
 		},
 		{
 			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb6.jpg,
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
