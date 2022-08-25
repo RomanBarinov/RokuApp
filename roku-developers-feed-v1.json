@@ -5,7 +5,7 @@
 	"shortFormVideos": [
 	{
 			"longDescription": "recipient of the highest award of the city of Jelgava",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb1.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -44,7 +44,7 @@
 				"duration": 248,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+					"url": "http://evo.id.lv/rokuapp/video/002.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -67,8 +67,8 @@
 			"content": {
 				"duration": 120,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/e623cb56c0f54b36ba835a6a5dc93f27/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "http://evo.id.lv/rokuapp/video/003.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -684,7 +684,7 @@
 				"duration": 713,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+					"url": "http://evo.id.lv/rokuapp/video/004.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -707,8 +707,8 @@
 			"content": {
 				"duration": 713,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/5b4e5754cc0b44bfaef78e14fcbdaebc/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "http://evo.id.lv/rokuapp/video/005.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -731,8 +731,8 @@
 			"content": {
 				"duration": 576,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/165bffb0ffed48f0b33f3af595ccd5dc/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "http://evo.id.lv/rokuapp/video/006.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
