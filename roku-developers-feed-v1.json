@@ -4,7 +4,7 @@
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"shortFormVideos": [
 	{
-			"longDescription": "Kārlis Īle - recipient of the highest award of the city of Jelgava ""Badge of Honor"", 2021",
+			"longDescription": "Kārlis Īle - recipient of the highest award of the city of Jelgava Badge of Honor, 2021",
 			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-1.jpg",
 			"releaseDate": "2021-11-17",
 			"genres": [
@@ -13,7 +13,7 @@
 			"tags": [
 				"Badge of Honor"
 			],
-			"id": "shortform-roku-streaming-overview",
+			"id": "kārlis_ile_bof",
 			"shortDescription": "To the sculptor for his significant contribution and integration of the art of sculpture into the cultural environment of the city and popularizing the name of Jelgava.",
 			"title": "Kārlis Īle",
 			"content": {
@@ -28,27 +28,27 @@
 			}
 		},
 		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
+			"longDescription": "Jurijs Stepanovs - recipient of the highest award of the city of Jelgava Badge of Honor, 2022",
 			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-2.jpg",
-			"releaseDate": "2020-01-15",
+			"releaseDate": "2022-06-26",
 			"genres": [
 				"educational"
 			],
 			"tags": [
-				"getting-started"
+				"Badge of Honor"
 			],
-			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "Roku Development Overview",
+			"id": "jurijs_stepanovs_bof",
+			"shortDescription": "Jurijs Stepanovs - recipient of the highest award of the city of Jelgava Badge of Honor, 2022",
+			"title": "Jurijs Stepanovs",
 			"content": {
-				"duration": 248,
+				"duration": 122,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "http://evo.id.lv/rokuapp/video/002.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
+				"dateAdded": "2022-08-25T02:39:11Z"
 			}
 		},
 		{
