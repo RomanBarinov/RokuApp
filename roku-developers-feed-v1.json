@@ -5,7 +5,7 @@
 	"shortFormVideos": [
 	{
 			"longDescription": "recipient of the highest award of the city of Jelgava",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb1.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-1.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -29,7 +29,7 @@
 		},
 		{
 			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb2.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-2.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
 				"educational"
@@ -53,7 +53,7 @@
 		},
 		{
 			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb3.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-3.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"educational"
@@ -669,7 +669,7 @@
 	],
 	"movies": [{
 			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb4.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-4.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -693,7 +693,7 @@
 		},
 		{
 			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb5.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-5.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -717,7 +717,7 @@
 		},
 		{
 			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb6.jpg",
+			"thumbnail": "http://evo.id.lv/rokuapp/video/thumb-66.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
