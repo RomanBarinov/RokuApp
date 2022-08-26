@@ -106,8 +106,8 @@
 			"content": {
 				"duration": 168,
 				"videos": [{
-					"videoType": "MP4",
-					"url": "http://evo.id.lv/rokuapp/video/001.mp4",
+					"videoType": "HLS",
+					"url": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
 					"quality": "HD"
 				}],
 				"language": "en-us",
